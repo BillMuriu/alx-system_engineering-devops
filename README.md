@@ -1,1 +1,1 @@
-Changing current user to other user
+Shell scrip commands
